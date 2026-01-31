@@ -46,11 +46,8 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ganeshkarthik016&show_icons=true&theme=tokyonight" alt="Ganesh's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshkarthik016&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
+![Ganesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ganeshkarthik016&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshkarthik016&layout=compact&theme=tokyonight)
 ---
 
 ## 🏆 Competitive Programming
