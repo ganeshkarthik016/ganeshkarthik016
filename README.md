@@ -55,17 +55,6 @@
 </p>
 ---
 
-## 🏆 Competitive Programming
-* **Codeforces:** [erwinsmith_016](https://codeforces.com/profile/erwinsmith_016) (Max: 1207 | Pupil)
-* **CodeChef:** Max Rating 1488
-
----
-
-## 🚀 Featured Projects
-| Project | Tech Stack | Description |
-| :--- | :--- | :--- |
-| **[CP Reminder 2.0](https://github.com/ganeshkarthik016/CPReminder2.0)** | Kotlin, Compose | Smart contest alarm & streak guardian app. |
-| **[Esports Manager](https://github.com/ganeshkarthik016/esports_manager)** | PHP, MySQL | Web platform for esports events & scoring. |
 
 ---
 
